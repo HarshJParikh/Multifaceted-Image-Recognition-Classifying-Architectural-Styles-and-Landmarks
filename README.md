@@ -46,14 +46,6 @@ The dataset comprises images from:
 - PIL
 - Sklearn
 
-## Getting Started
-
-1. Clone this repository: `git clone [your-repo-link]`.
-2. Navigate to the project directory: `cd [your-directory-name]`.
-3. Install required packages: `pip install -r requirements.txt` (if available).
-4. Launch Jupyter Notebook: `jupyter notebook`.
-5. Execute the notebook `DSCI552 - Project Code - Group24.ipynb` to replicate the results.
-
 ## Skills and Tech Stack
 
 1. Programming & Scripting: Python
